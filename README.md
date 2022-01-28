@@ -1,8 +1,8 @@
 ## ISOBL_model_out
-**Large-eddy simulation of the ice shelf-ocean boundary layer: model output**
 
-Data for manuscript *Regimes and transitions in the basal melting of Antarctic ice shelves* submitted to the Journal of Physical Oceanography December 2021
+This repository contans large-eddy simulation model output. The simulations are of the boundary layer beneath a melting ice shelf. This model ouput underpins the submitted manuscript *Regimes and transitions in the basal melting of Antarctic ice shelves* submitted to the Journal of Physical Oceanography (December 2021).
 
+**Contents**
 Each folder contains output from a single simulation in a netcdf file "ISOBL_model_output.nc".
 
 Naming convention refers to the free stream velocity (U) and the thermal driving (T) for eaach case, e.g. U07_N005 --> U=0.7 cm/s, T\*=0.005 degrees C.
