@@ -3,7 +3,7 @@
 
 Each folder contains output from a single simulation in a netcdf file "ISOBL_model_output.nc".
 
-Naming convention refers to the free stream velocity (U) and the thermal driving (T) for eaach case, e.g. U07_N005 --> U=0.7 cm/s, T\*=0.005 deg
+Naming convention refers to the free stream velocity (U) and the thermal driving (T) for eaach case, e.g. U07_N005 --> U=0.7 cm/s, T\*=0.005 degrees C.
 
 Dataset consists of profiles in the wall[ice]-normal direction (y) over time. Profiles are all averages over the horizontal (x-z) plane.
 
