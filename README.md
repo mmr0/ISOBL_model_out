@@ -1,6 +1,6 @@
 ## ISOBL_model_out
 
-This repository contans large-eddy simulation model output. The simulations are of the boundary layer beneath a melting ice shelf. This model ouput underpins the submitted manuscript *Regimes and transitions in the basal melting of Antarctic ice shelves* submitted to the Journal of Physical Oceanography (December 2021).
+This repository contains large-eddy simulation output from the CFD model _Diablo_. The simulations are of the boundary layer beneath a melting ice shelf. This model ouput underpins the submitted manuscript *Regimes and transitions in the basal melting of Antarctic ice shelves* submitted to the Journal of Physical Oceanography (December 2021).
 
 **Contents:**
 
